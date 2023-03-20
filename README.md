@@ -28,4 +28,4 @@ Provide instructions and guidelines for contributing to the project. This can in
 
 ## License
 
-Include information on the license under which the project is distributed. You can include the full text of the license or a summary, as well as any relevant attribution or copyright information.
+This project is dedicated to the public domain, under the terms of the [Unlicense](http://unlicense.org/). You may use, modify, and distribute this code without restriction or attribution.
