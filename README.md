@@ -1,6 +1,6 @@
-# Project Name
+# Puzzle Bobble
 
-Puzzle Bobble
+Implmentation of Puzzble Bobble Game Clone
 
 ## Table of Contents
 
