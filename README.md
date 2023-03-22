@@ -1,6 +1,6 @@
 # Project Name
 
-Brief description of the project.
+Puzzle Bobble
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Brief description of the project.
 
 ## Overview
 
-Provide a brief overview of the project, its goals, and its intended audience. You can include any relevant background information and context that will help readers understand the purpose and scope of the project.
+I implemented Puzzle Bobble Game Clone using the Pygame library in Python
 
 ## Installation
 
