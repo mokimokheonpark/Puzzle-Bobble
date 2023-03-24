@@ -7,7 +7,7 @@ Implmentation of Puzzble Bobble Game Clone
 - [Overview](#overview)
 - [Dependency](#dependency)
 - [Installation](#installation)
-- [How to play](#How to play)
+- [How-to-Play](#How-to-Play)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -24,7 +24,7 @@ Pygame: A Python library for game development
 - git clone https://github.com/mokimokheonpark/Puzzle-Bobble.git  
 - pip install pygame
 
-## How to play
+## How-to-Play
 
 To play the game, simply run the "main.py" file.    
 From keyboard,  
