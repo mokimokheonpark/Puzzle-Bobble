@@ -16,7 +16,7 @@ Implemented Puzzle Bobble Game Clone using the Pygame library in Python.
 
 ## Installation
 
-Will be updated soon.
+git
 
 ## Usage
 
