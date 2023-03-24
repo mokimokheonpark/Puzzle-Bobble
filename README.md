@@ -24,8 +24,10 @@ run main.py
 
 ## Interface
 
+From keyboard,
 left arrow: move the arrow to the left side  
-hello
+right arrow: move the arrow to the right side  
+space bar: shoot the bubble
 
 ## Contributing
 
