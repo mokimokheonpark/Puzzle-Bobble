@@ -24,7 +24,7 @@ run main.py
 
 ## Interface
 
-left arrow: move the arrow to the left side 
+left arrow: move the arrow to the left side  
 hello
 
 ## Contributing
