@@ -7,7 +7,7 @@ Implmentation of Puzzble Bobble Game Clone
 - [Overview](#overview)
 - [Dependency](#dependency)
 - [Installation](#installation)
-- [Usage](#usage)
+- [How to play](#How to play)
 - [Contributing](#contributing)
 - [License](#license)
 
