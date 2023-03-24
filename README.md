@@ -14,9 +14,14 @@ Implmentation of Puzzble Bobble Game Clone
 
 Implemented Puzzle Bobble Game Clone using the Pygame library in Python.
 
+## Dependency
+
+Pygame: A Python library for game development
+
 ## Installation
 
-git clone https://github.com/mokimokheonpark/Puzzle-Bobble.git
+git clone https://github.com/mokimokheonpark/Puzzle-Bobble.git  
+pip install pygame
 
 ## Usage
 
@@ -24,7 +29,7 @@ run main.py
 
 ## Interface
 
-From keyboard,
+From keyboard,  
 left arrow: move the arrow to the left side  
 right arrow: move the arrow to the right side  
 space bar: shoot the bubble
