@@ -21,7 +21,11 @@ git clone https://github.com/mokimokheonpark/Puzzle-Bobble.git
 ## Usage
 
 run main.py
-hello?
+
+## Interface
+
+left arrow: move the arrow to the left side 
+hello
 
 ## Contributing
 
