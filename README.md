@@ -5,6 +5,7 @@ Implmentation of Puzzble Bobble Game Clone
 ## Table of Contents
 
 - [Overview](#overview)
+- [Dependency](#dependency)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
