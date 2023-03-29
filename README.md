@@ -2,15 +2,6 @@
 
 Implmentation of Puzzble Bobble Game Clone
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Dependency](#dependency)
-- [Installation](#installation)
-- [How-to-Play](#How-to-Play)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 Implemented Puzzle Bobble Game Clone using the Pygame library in Python.
