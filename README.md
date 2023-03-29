@@ -5,7 +5,7 @@ Implmentation of Puzzble Bobble Game Clone
 ## Overview
 
 - Implemented Puzzle Bobble game clone using the Pygame library in Python.  
-- Used object-oriented programming principles.
+- Used Object-Oriented Programming principles.
 - Used Depth First Search (DFS) Algorithm for matching and popping bubbles
 
 ## Dependency
