@@ -6,9 +6,9 @@ Puzzle Bobble is a popular arcade game where the player shoots coloured bubbles 
 
 - Classic gameplay experience with simple and colourful graphics
 - Object-oriented design with modular components for easy maintenance and scalability.
-- Uses Depth First Search (DFS) Algorithm for matching and popping bubbles.
+- Depth First Search (DFS) Algorithm for matching and popping bubbles.
 - Progressive difficulty level with the descending wall increasing the challenge.
-- Supports keyboard controls for easy gameplay.
+- Keyboard controls for easy gameplay.
 - Fully customizable codebase to add new features and extend the game.
 
 ## Dependency
@@ -17,17 +17,11 @@ Puzzle Bobble is a popular arcade game where the player shoots coloured bubbles 
 
 ## Installation
 
-- git clone https://github.com/mokimokheonpark/Puzzle-Bobble.git  
-- pip install pygame
+To get started with the game, follow the steps below:
+- Clone the repository using the following command: git clone https://github.com/mokimokheonpark/Puzzle-Bobble.git  
+- Install the Pygame library using the following command: pip install pygame
 
 ## How-to-Play
 
-- To play the game, simply run the "main.py" file.  
-- A player shoots coloured bubbles from the bottom of the screen to match bubbles of the same colour at the top of the screen.  
-- When three or more bubbles of the same colour mathced, they pop and disappear.  
-- Every time the player shoots a bubble 7 times, the wall will descend from above, increasing the difficulty.  
-- The goal is to clear all the bubbles from the screen before they reach the bottom.  
-- From keyboard,
-  - left arrow: move the arrow to the left side  
-  - right arrow: move the arrow to the right side  
-  - space bar: shoot the bubble
+To play the game, navigate to the cloned repository directory and run the "main.py" file using the following command: python main.py
+The game can be played using the left and right arrow keys to move the arrow and the space bar to shoot the bubble. The objective is to match bubbles of the same colour and clear them from the screen before they reach the bottom.
