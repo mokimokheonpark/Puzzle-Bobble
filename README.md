@@ -1,12 +1,15 @@
 # Puzzle Bobble
 
-Implmentation of Puzzble Bobble Game Clone
+Puzzle Bobble is a popular arcade game where the player shoots coloured bubbles from the bottom of the screen to match bubbles of the same colour at the top of the screen. This project is a clone of the game, implemented using the Pygame library in Python and Object-Oriented Programming principles.
 
-## Overview
+## Features
 
-- Implemented Puzzle Bobble game clone using the Pygame library in Python.  
-- Used Object-Oriented Programming principles.
-- Used Depth First Search (DFS) Algorithm for matching and popping bubbles
+- Classic gameplay experience with simple and colourful graphics
+- Object-oriented design with modular components for easy maintenance and scalability.
+- Uses Depth First Search (DFS) Algorithm for matching and popping bubbles.
+- Progressive difficulty level with the descending wall increasing the challenge.
+- Supports keyboard controls for easy gameplay.
+- Fully customizable codebase to add new features and extend the game.
 
 ## Dependency
 
