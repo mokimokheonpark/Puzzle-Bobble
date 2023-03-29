@@ -26,7 +26,8 @@ Pygame: A Python library for game development
 
 ## How-to-Play
 
-To play the game, simply run the "main.py" file.    
+To play the game, simply run the "main.py" file.  
+
 From keyboard,  
 - left arrow: move the arrow to the left side  
 - right arrow: move the arrow to the right side  
