@@ -20,9 +20,9 @@ Implmentation of Puzzble Bobble Game Clone
 ## How-to-Play
 
 - To play the game, simply run the "main.py" file.  
-- The player shoots coloured bubbles from the bottom of the screen to match bubbles of the same colour at the top of the screen.  
+- A player shoots coloured bubbles from the bottom of the screen to match bubbles of the same colour at the top of the screen.  
 - When three or more bubbles of the same colour mathced, they pop and disappear.  
-- Every time you shoot a bubble 7 times, the wall will descend from above, increasing the difficulty.  
+- Every time the players shoots a bubble 7 times, the wall will descend from above, increasing the difficulty.  
 - The goal is to clear all the bubbles from the screen before they reach the bottom.  
 - From keyboard,
   - left arrow: move the arrow to the left side  
