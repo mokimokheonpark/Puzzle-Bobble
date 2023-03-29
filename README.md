@@ -17,7 +17,7 @@ Puzzle Bobble is a popular arcade game where the player shoots coloured bubbles 
 
 ## Installation
 
-To get started with the game, follow the steps below:
+To get started with the project, follow the steps below:
 - Clone the repository using the following command: git clone https://github.com/mokimokheonpark/Puzzle-Bobble.git  
 - Install the Pygame library using the following command: pip install pygame
 
