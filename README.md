@@ -33,4 +33,4 @@ Contributions to the project are welcome! If you find any issues or have any sug
 
 ## License
 
-The project is licensed under the MIT License.
+This project is licensed under the MIT License.
