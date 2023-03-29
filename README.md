@@ -12,7 +12,7 @@ Puzzle Bobble is a popular arcade game where the player shoots coloured bubbles 
 - Fully customizable codebase to add new features and extend the game.
 
 ## Dependency
-
+This project requires the following dependency:
 - Pygame: A Python library for game development
 
 ## Installation
