@@ -26,3 +26,11 @@ To get started with the game, follow the steps below:
 - To play the game, navigate to the cloned repository directory and run the "main.py" file using the following command: python main.py
 - The game can be played using the left and right arrow keys to move the arrow and the space bar to shoot the bubble.
 - The objective is to match bubbles of the same colour and clear them from the screen before they reach the bottom.
+
+## Contributions
+
+Contributions to the project are welcome! If you find any issues or have any suggestions for improvement, feel free to create an issue or a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
