@@ -23,8 +23,8 @@ This project requires the following dependency:
 
 To get started with the project, follow the steps below:
 
-- Clone the repository using the following command: git clone https://github.com/mokimokheonpark/Puzzle-Bobble.git  
-- Install the Pygame library using the following command: pip install pygame
+1. Clone the repository using the following command: git clone https://github.com/mokimokheonpark/Puzzle-Bobble.git  
+2. Install the Pygame library using the following command: pip install pygame
 
 ## How-to-Play
 
