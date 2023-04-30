@@ -4,20 +4,25 @@ Puzzle Bobble is a popular arcade game where the player shoots coloured bubbles 
 
 ## Features
 
-- Classic gameplay experience with simple and colourful graphics
+The project has the following features:
+
+- Classic gameplay experience with simple and colourful graphics.
 - Object-oriented design with modular components for easy maintenance and scalability.
 - Depth First Search (DFS) Algorithm for matching and popping bubbles.
 - Progressive difficulty level with the descending wall increasing the challenge.
 - Keyboard controls for easy gameplay.
 - Fully customizable codebase to add new features and extend the game.
 
-## Dependency
+## Dependencies
+
 This project requires the following dependency:
+
 - Pygame: A Python library for game development
 
 ## Installation
 
 To get started with the project, follow the steps below:
+
 - Clone the repository using the following command: git clone https://github.com/mokimokheonpark/Puzzle-Bobble.git  
 - Install the Pygame library using the following command: pip install pygame
 
